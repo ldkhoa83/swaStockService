@@ -30,6 +30,6 @@ public class StockController {
         stock.put("A001",10);
         stock.put("B002",20);
         stock.put("C003",30);
-        stock.put("C004",50);
+        stock.put("C004",60);
     }
 }
